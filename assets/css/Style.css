@@ -1,0 +1,40 @@
+.navbar-custom {
+    background-color: #E83E8C;
+}
+.navbar-custom .navbar-text {
+    color:#FFFFFF;
+
+}   
+.fondo-footer{
+    background-color: #E83E8C;  
+}
+.img-logo{
+    width: 132px;
+    height: 53px;
+}
+.img-footer{
+    width: 53.32px;
+    height: 100.45px;   
+}
+
+.tarjeta-icono{
+    background-color: #17a2b8;
+    padding: 60px;
+}
+.lista-icono{
+    display: inline;
+    text-align: right;
+}
+
+.h1-custom{
+ font-family: 'Open Sans', sans-serif;
+ font-size: 60px;
+ color: #707070;
+}
+
+
+.card-title .h5-custom{
+    font-family: 'Open Sans Bold', sans-serif;
+    font-size: 17px;
+}
+
